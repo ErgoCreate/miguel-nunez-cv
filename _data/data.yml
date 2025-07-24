@@ -1,29 +1,32 @@
-name: John Doe
+name: Miguel Nunez
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: 
+  github: 
+  linkedin: ms-nunezaguayo
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Spanish (Native)
+  - idiom: English (Advanced)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+- degree: PhD in Mechanical Engineering
+    time: 2023-Present
+    university: University of Guanajuato
+    
+  - degree: MSc in Mechanical Engineering
+    time: 2020-2022
+    university: University of Guanajuato
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Mechanical Engineering
+    time: 2014-2019
+    university: University of Guanajuato
 
 skills:
   - category: Backend
@@ -41,11 +44,7 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Doctoral Student in Mechanical Engineering. My professional experience includes research projects in numerical analysis, applied mathematics, fluid mechanics, thermodynamics, energy, heat and mass transfer. I also have experience as translator (English<>Spanish) and Python engineer. I regularly teach extracurricular courses in Computational Fluid Dynamics and Programming in Python 3 to college students at the Engineering Division of the University of Guanajuato in Salamanca.
 
 # Experience
 experience:
